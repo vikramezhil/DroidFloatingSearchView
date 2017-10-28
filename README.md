@@ -4,6 +4,12 @@ Yet another floating search view library for android
 <b><h1>About</h1></b>
 An easy to implement floating search view with customizations.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/12429051/32132439-1cf9499c-bbe1-11e7-8da0-7bcf90485afc.png" height="550" width="275"/>
+<img src="https://user-images.githubusercontent.com/12429051/32132378-5fb91baa-bbe0-11e7-8f94-f1fa7a0ef634.png" height="550" width="275"/>
+<img src="https://user-images.githubusercontent.com/12429051/32132440-1d327f3c-bbe1-11e7-9811-5e28e9388760.png" height="550" width="275"/>
+</p>
+
 <b><h1>Usage</h1></b>
 <b>Gradle dependency:</b>
 
