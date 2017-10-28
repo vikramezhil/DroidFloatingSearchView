@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

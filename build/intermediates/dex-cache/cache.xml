@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="654e7045edd3978c3db40d771f7d79e046d991ef">
+        <dex dex="/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_827d3c6dc99ba45d8d57254ad9109f868572e810.jar" />
+    </item>
+
+</items>

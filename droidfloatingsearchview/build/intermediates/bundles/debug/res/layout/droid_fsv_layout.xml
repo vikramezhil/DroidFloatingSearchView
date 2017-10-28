@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvDroidFSView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dFSVMargin"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    app:cardElevation="@dimen/dFSVElevation"
+    app:cardCornerRadius="@dimen/dFSVCornerRadius">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dFSVHeight"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivCloseSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dFSVIconMargin"
+                android:scaleType="centerInside"
+                android:clickable="true"
+                android:src="@drawable/icon_back"
+                android:contentDescription="@string/app_name"
+                android:background="?attr/selectableItemBackground"
+                android:visibility="gone"/>
+
+            <com.vikramezhil.droidfloatingsearchview.DroidEditText
+                android:id="@+id/etSearch"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:layout_marginStart="@dimen/dFSVETMargin"
+                android:layout_marginEnd="@dimen/dFSVETMargin"
+                android:hint="@string/search"
+                android:inputType="textNoSuggestions"
+                android:maxLines="1"
+                android:background="@android:color/transparent"
+                android:textCursorDrawable="@null"/>
+
+            <ImageView
+                android:id="@+id/ivClearSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dFSVIconMargin"
+                android:scaleType="centerInside"
+                android:clickable="true"
+                android:src="@drawable/icon_close"
+                android:contentDescription="@string/app_name"
+                android:background="?attr/selectableItemBackground"
+                android:visibility="gone"/>
+
+            <ImageView
+                android:id="@+id/ivActionIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/dFSVIconMargin"
+                android:scaleType="centerInside"
+                android:clickable="true"
+                android:src="@drawable/icon_speech"
+                android:contentDescription="@string/app_name"
+                android:background="?attr/selectableItemBackground"
+                android:visibility="visible"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llSuggestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/dFSVDividerColor"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rvSuggestionsList"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/dFSVETMargin"/>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
