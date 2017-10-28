@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dFSVHeight">50dp</dimen>
+    <dimen name="dFSVSuggestionsHeight">30dp</dimen>
+    <dimen name="dFSVMargin">4dp</dimen>
+    <dimen name="dFSVETMargin">8dp</dimen>
+    <dimen name="dfSVETSuggestionMargin">10dp</dimen>
+    <dimen name="dFSVIconMargin">8dp</dimen>
+    <dimen name="dFSVElevation">2dp</dimen>
+    <dimen name="dFSVCornerRadius">2dp</dimen>
+</resources>
