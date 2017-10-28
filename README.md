@@ -53,6 +53,10 @@ Add the following to the <dependencies> section of your pom.xml:
 </dependency>
 ```
 
+<b><h1>Documentation</h1></b>
+
+For a detailed documentation 📔, please have a look at the [Wiki](https://github.com/vikramezhil/DroidFloatingSearchView/wiki).
+
 In your layout file add Droid Floating Search View,
 
 ```xml
