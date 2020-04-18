@@ -19,6 +19,8 @@
         <attr format="color" name="dfsvHintTextColor"/>
         <attr format="color" name="dfsvDividerColor"/>
 
+        <attr format="string" name="dfsvHintText"/>
+
         <attr format="integer" name="dfsvCloseIcon"/>
         <attr format="integer" name="dfsvClearIcon"/>
         <attr format="integer" name="dfsvActionIcon"/>

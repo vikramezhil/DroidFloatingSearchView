@@ -334,6 +334,8 @@ public class Dfsv extends LinearLayout {
                 setSearchViewHintTextColor(typedArray.getInt(R.styleable.Dfsv_dfsvHintTextColor, Color.WHITE));
                 setDividerColor(typedArray.getInt(R.styleable.Dfsv_dfsvIconsColor, Color.WHITE));
 
+                setSearchViewHint(typedArray.getString(R.styleable.Dfsv_dfsvHintText));
+
                 setContinuousSearch(typedArray.getBoolean(R.styleable.Dfsv_dfsvContinuousSearch, false));
                 setCloseSearchViewOnOverlayTouch(typedArray.getBoolean(R.styleable.Dfsv_dfsvCloseSearchOnOverlayTouch, false));
 

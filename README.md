@@ -4,6 +4,9 @@ Yet another floating search view library for android
 <b><h1>About</h1></b>
 An easy to implement floating search view with customizations.
 
+<b>Supports from Android SDK version 19 and above.</b><br/><br/>
+<b>Requires androidx.</b>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/12429051/32132439-1cf9499c-bbe1-11e7-8da0-7bcf90485afc.png" height="550" width="275"/>
 <img src="https://user-images.githubusercontent.com/12429051/32132378-5fb91baa-bbe0-11e7-8f94-f1fa7a0ef634.png" height="550" width="275"/>
@@ -28,7 +31,7 @@ Add this to your app build.gradle:
 
 ```java
 dependencies {
-    compile 'com.github.vikramezhil:DroidFloatingSearchView:v2.0.0'
+    implementation 'com.github.vikramezhil:DroidFloatingSearchView:v2.0.1'
 }
 ```
 
@@ -49,7 +52,7 @@ Add the following to the <dependencies> section of your pom.xml:
 <dependency>
     <groupId>com.github.vikramezhil</groupId>
     <artifactId>DroidFloatingSearchView</artifactId>
-    <version>v2.0.0</version>
+    <version>v2.0.1</version>
 </dependency>
 ```
 
@@ -70,6 +73,7 @@ In your layout file add Droid Floating Search View,
     app:dfsvHintTextColor="@android:color/white"
     app:dfsvDividerColor="@android:color/white"
     app:dfsvIconsColor="@android:color/white"
+    app:dfsvHintText="@string/search_hint"
     app:dfsvCornerRadius="10"
     app:dfsvElevation="5"
     app:dfsvCloseSearchOnOverlayTouch="false"

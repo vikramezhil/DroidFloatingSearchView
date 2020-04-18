@@ -14,6 +14,7 @@
         app:dfsvHintTextColor="@android:color/white"
         app:dfsvDividerColor="@android:color/white"
         app:dfsvIconsColor="@android:color/white"
+        app:dfsvHintText="@string/search_hint"
         app:dfsvCornerRadius="10"
         app:dfsvElevation="5"
         app:dfsvCloseSearchOnOverlayTouch="false"
