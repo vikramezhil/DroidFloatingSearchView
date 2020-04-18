@@ -4,16 +4,8 @@
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
@@ -24,24 +16,20 @@
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_in.xml"
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/slide_right.xml",
@@ -52,12 +40,8 @@
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
-        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/slide_right.xml",
+        "source": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/src/main/res/anim/slide_right.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/slide_right.xml",
@@ -66,10 +50,6 @@
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
@@ -88,20 +68,12 @@
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_exit.xml"
-    },
-    {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
@@ -116,16 +88,112 @@
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
-        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/tooltip_enter.xml"
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
         "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",

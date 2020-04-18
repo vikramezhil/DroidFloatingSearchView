@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DroidFloatingSearchView</string>
+
+    <string-array name="suggestions">
+        <item>The Dark Knight</item>
+        <item>The Avengers</item>
+        <item>Deadpool</item>
+        <item>Superman</item>
+        <item>Logan</item>
+        <item>Batman Vs. Superman</item>
+        <item>Batman Begins</item>
+    </string-array>
 </resources>

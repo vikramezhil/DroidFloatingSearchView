@@ -3,12 +3,291 @@
 
     <item
         is-multidex="false"
-        jar="/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/bundles/default/classes.jar"
+        jar="/Users/vikramezhil/.android/build-cache/e40ffc344c896255f9b10fce95b8b07a3c0a5296/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="654e7045edd3978c3db40d771f7d79e046d991ef">
-        <dex dex="/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_827d3c6dc99ba45d8d57254ad9109f868572e810.jar" />
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_7585bcda5dd5c6221e3406c660339c41546f1f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/e40ffc344c896255f9b10fce95b8b07a3c0a5296/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_7585bcda5dd5c6221e3406c660339c41546f1f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/0fd15d9c98a7a0cb7d22d037b7a4d7eab4689c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_5ea4014d936ff64faac974e9cefd152256746270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5ee02bfbc1910d1fdff53ad55a01b1d0fd344a7">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_4cbd9f8aaf109538bffe7161d1bb8cb37a15ed9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_24cc962eedc0a1712d0bc8b24983e1d30a03c1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/8262578aee70f794976d0148fe55a1dbc5296185/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_24cc962eedc0a1712d0bc8b24983e1d30a03c1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="a5ee02bfbc1910d1fdff53ad55a01b1d0fd344a7">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_4cbd9f8aaf109538bffe7161d1bb8cb37a15ed9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/bdd280ecc2f142e8e83a73010872d55e362df614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_749e25b66ecbff609f9a2409186e979433bf1254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/bdd280ecc2f142e8e83a73010872d55e362df614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_749e25b66ecbff609f9a2409186e979433bf1254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/c9fa1ca8817a09b3851e1197cc597c26a71cbed5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_c60f2c1e0de56dd6974256529fbddcb13e76564e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/c9fa1ca8817a09b3851e1197cc597c26a71cbed5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_c60f2c1e0de56dd6974256529fbddcb13e76564e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/0fd15d9c98a7a0cb7d22d037b7a4d7eab4689c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_5ea4014d936ff64faac974e9cefd152256746270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/2de8c4d68ce930693ffd582cc0fc7b6533a1d4d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_dc80ff2da8f004f204fdc95ac1fa694407045e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/5a16b6a890c7a12580a6aaafdb64b7297b645b52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_beb46b8f21ba38c3386b0dfdc08ff5292646cec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/c2bda8d0d6f1c2c6c5d9d4e22ca93b6192045624/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_c31f349fd7ad380c79b2ff89f71dbbe747057744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/5a16b6a890c7a12580a6aaafdb64b7297b645b52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_beb46b8f21ba38c3386b0dfdc08ff5292646cec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/c2bda8d0d6f1c2c6c5d9d4e22ca93b6192045624/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_c31f349fd7ad380c79b2ff89f71dbbe747057744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/09da0c9e51d679c4206a08f1a79ef54239f6ddd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_8fbd51b05d3a148de66c2b9c7f2590c5aedebb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/09da0c9e51d679c4206a08f1a79ef54239f6ddd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_8fbd51b05d3a148de66c2b9c7f2590c5aedebb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/2de8c4d68ce930693ffd582cc0fc7b6533a1d4d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_dc80ff2da8f004f204fdc95ac1fa694407045e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_0863f112a1f0a43dfe08f1e36f34110ffeb27181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_0863f112a1f0a43dfe08f1e36f34110ffeb27181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/51e34289906f7aa261d824e54918f271e09cc402/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_d2103945ede35c232139c4432a0fe58d8821766c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/51e34289906f7aa261d824e54918f271e09cc402/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_d2103945ede35c232139c4432a0fe58d8821766c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/f1490e435d71923701792a631fe7d3bd7e900e73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_86ac16d82d3c3c41b0b514a5c620d5ac61e6d7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/35e19fead50702cb09998af6160a8083cff05436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_b63200b051df0d25f7edfc3d693b8effb3d9bb5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/f1490e435d71923701792a631fe7d3bd7e900e73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_86ac16d82d3c3c41b0b514a5c620d5ac61e6d7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.android/build-cache/35e19fead50702cb09998af6160a8083cff05436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/classes_b63200b051df0d25f7edfc3d693b8effb3d9bb5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_37d17e44adea91972299f3a716710f5e066618c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_37d17e44adea91972299f3a716710f5e066618c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.0"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_139a5c4b84bcbc6f5003fa0ac3354768a7cb74d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikramezhil/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_139a5c4b84bcbc6f5003fa0ac3354768a7cb74d3.jar" />
     </item>
 
 </items>

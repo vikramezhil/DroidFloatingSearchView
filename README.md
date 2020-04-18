@@ -28,7 +28,7 @@ Add this to your app build.gradle:
 
 ```java
 dependencies {
-    compile 'com.github.vikramezhil:DroidFloatingSearchView:v1.0.0'
+    compile 'com.github.vikramezhil:DroidFloatingSearchView:v2.0.0'
 }
 ```
 
@@ -49,7 +49,7 @@ Add the following to the <dependencies> section of your pom.xml:
 <dependency>
     <groupId>com.github.vikramezhil</groupId>
     <artifactId>DroidFloatingSearchView</artifactId>
-    <version>v1.0.0</version>
+    <version>v2.0.0</version>
 </dependency>
 ```
 
@@ -75,46 +75,30 @@ DroidFSView dfsView = findViewById(R.id.dfsView);
 Set and implement the Droid Floating Search View listener methods
 
 ```java
-dfsView.setOnDroidFSViewListener(new OnDroidFSViewListener()
-{
+dfsView.setOnDroidFSViewListener(new OnDroidFSViewListener() {
     @Override
     public void onHasFocus() {
-
         Log.i(TAG, "Has focus");
     }
 
     @Override
     public void onLostFocus() {
-
         Log.i(TAG, "Lost focus");
     }
 
     @Override
     public void onSearchTextChanged(String oldQuery, String newQuery) {
-
         Log.i(TAG, "Old query = " + oldQuery + ", New Query = " + newQuery);
     }
 
     @Override
     public void onSearchText(String searchQuery) {
-
         Log.i(TAG, "Query to search = " + searchQuery);
     }
 
     @Override
     public void onActionItemClicked() {
-
         Log.i(TAG, "Action item clicked");
     }
 });
 ```
-
-<b><h1>License</h1></b>
-
-Copyright 2017 Vikram Ezhil
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.

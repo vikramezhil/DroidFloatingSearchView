@@ -4,6 +4,10 @@
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidFSVExample/droidfloatingsearchview/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/vikram/.android/build-cache/11c4fd022a7bf0f16fe8028ab1a79d39eb89e148/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/vikramezhil/Documents/Work/Libraries/Vikram/DroidFSV/droidfloatingsearchview/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vikramezhil/.android/build-cache/63fbbad16c6b67d9b60b2702e6a67fd86e3f6727/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

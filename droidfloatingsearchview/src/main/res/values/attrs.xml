@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Dfsv">
+        <attr name="dfsvBgColor" format="color"/>
+        <attr name="dfsvOverlayBgColor" format="color"/>
+        <attr name="dfsvTextColor" format="color"/>
+        <attr name="dfsvIconsColor" format="color"/>
+        <attr name="dfsvHintTextColor" format="color"/>
+        <attr name="dfsvDividerColor" format="color"/>
+
+        <attr name="dfsvCloseIcon" format="integer"/>
+        <attr name="dfsvClearIcon" format="integer"/>
+        <attr name="dfsvActionIcon" format="integer"/>
+
+        <attr name="dfsvContinuousSearch" format="boolean"/>
+        <attr name="dfsvCloseSearchOnOverlayTouch" format="boolean"/>
+
+        <attr name="dfsvCornerRadius" format="float"/>
+        <attr name="dfsvElevation" format="float"/>
+
+        <attr name="dfsvSuggestions" format="reference"/>
+    </declare-styleable>
+</resources>

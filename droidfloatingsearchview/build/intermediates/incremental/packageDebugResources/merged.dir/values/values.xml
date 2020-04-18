@@ -5,10 +5,30 @@
     <dimen name="dFSVETMargin">8dp</dimen>
     <dimen name="dFSVElevation">2dp</dimen>
     <dimen name="dFSVHeight">50dp</dimen>
-    <dimen name="dFSVIconMargin">8dp</dimen>
+    <dimen name="dFSVIconMargin">10dp</dimen>
     <dimen name="dFSVMargin">4dp</dimen>
     <dimen name="dFSVSuggestionsHeight">30dp</dimen>
     <dimen name="dfSVETSuggestionMargin">10dp</dimen>
     <string name="app_name">DroidFloatingSearchView</string>
     <string name="search">Search</string>
+    <declare-styleable name="Dfsv">
+        <attr format="color" name="dfsvBgColor"/>
+        <attr format="color" name="dfsvOverlayBgColor"/>
+        <attr format="color" name="dfsvTextColor"/>
+        <attr format="color" name="dfsvIconsColor"/>
+        <attr format="color" name="dfsvHintTextColor"/>
+        <attr format="color" name="dfsvDividerColor"/>
+
+        <attr format="integer" name="dfsvCloseIcon"/>
+        <attr format="integer" name="dfsvClearIcon"/>
+        <attr format="integer" name="dfsvActionIcon"/>
+
+        <attr format="boolean" name="dfsvContinuousSearch"/>
+        <attr format="boolean" name="dfsvCloseSearchOnOverlayTouch"/>
+
+        <attr format="float" name="dfsvCornerRadius"/>
+        <attr format="float" name="dfsvElevation"/>
+
+        <attr format="reference" name="dfsvSuggestions"/>
+    </declare-styleable>
 </resources>
