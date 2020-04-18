@@ -60,10 +60,21 @@ For a detailed documentation 📔, please have a look at the [Wiki](https://gith
 In your layout file add Droid Floating Search View,
 
 ```xml
-<com.vikramezhil.droidfloatingsearchview.DroidFSView
+<github.com.vikramezhil.dfsv.Dfsv
     android:id="@+id/dfsView"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"/>
+    android:layout_height="wrap_content"
+    app:dfsvBgColor="@android:color/holo_purple"
+    app:dfsvOverlayBgColor="@android:color/holo_purple"
+    app:dfsvTextColor="@android:color/white"
+    app:dfsvHintTextColor="@android:color/white"
+    app:dfsvDividerColor="@android:color/white"
+    app:dfsvIconsColor="@android:color/white"
+    app:dfsvCornerRadius="10"
+    app:dfsvElevation="5"
+    app:dfsvCloseSearchOnOverlayTouch="false"
+    app:dfsvContinuousSearch="false"
+    app:dfsvSuggestions="@array/suggestions"/>
 ```
 
 In your class file, initialize Droid Floating Search View using the ID specified in your layout file
